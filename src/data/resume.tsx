@@ -154,6 +154,64 @@ export const DATA = {
       image: "",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
+    {
+      title: "Statistics on Mental Health",
+      dates: "Feb 2023 - May 2023",
+      active: true,
+      description:
+        "Did a research on statistics on mental health and created a dashboard for it.",
+      technologies: [
+        "Eviews",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/magicuidesign/magicui",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+    },
+    {
+      title: "Statistics on UB air quality",
+      dates: "Sep 2023 - Dec 2023",
+      active: true,
+      description:
+        "Did a research on statistics on UB air quality and created a dashboard for it.",
+      technologies: [
+        "Eviews",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/magicuidesign/magicui",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+    },
+    {
+      title: "Laptop price prediction",
+      dates: "Nov 2024 - Jan 2025",
+      active: true,
+      description:
+        "Cleaned, visualized and applied machine learning as well as deep learning models on top of the dataset to create a model that predicts the laptop prices from specs.",
+      technologies: [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Scikit-learn",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/magicuidesign/magicui",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+    }
   ],
   hackathons: [
   ],
